@@ -29,25 +29,6 @@ const ALLOWED_TIMEZONES = new Set([
     // Australia
     "Australia/Sydney", "Australia/Melbourne", "Australia/Brisbane", 
     "Australia/Adelaide", "Australia/Perth", "Australia/Hobart", "Australia/Darwin",
-
-    // USA
-    "America/New_York",      // Eastern
-    "America/Chicago",       // Central
-    "America/Denver",        // Mountain
-    "America/Phoenix",       // Mountain (no DST)
-    "America/Los_Angeles",   // Pacific
-    "America/Anchorage",     // Alaska
-    "Pacific/Honolulu",      // Hawaii
-
-    // Canada
-    "America/St_Johns",      // Newfoundland
-    "America/Halifax",       // Atlantic
-    "America/Toronto",       // Eastern
-    "America/Winnipeg",      // Central
-    "America/Regina",        // Central (no DST)
-    "America/Edmonton",      // Mountain
-    "America/Vancouver"      // Pacific
-
     "Asia/Singapore"
 ]);
 
